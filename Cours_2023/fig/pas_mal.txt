@@ -1,0 +1,6 @@
+Je sais écrire
+...
+avec Python !
+Je sais ajouter
+du texte
+avec Python !
